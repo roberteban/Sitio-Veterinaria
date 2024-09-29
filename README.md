@@ -19,3 +19,4 @@ Este proyecto consiste en un sitio web para una veterinaria, donde se implementa
 1. Clona este repositorio: 
    ```bash
    git clone https://github.com/roberteban/Sitio-Veterinaria.git
+2. Abre el archivo index.html en tu navegador.
