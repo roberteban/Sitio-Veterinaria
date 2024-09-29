@@ -1,0 +1,38 @@
+/* styles.css */
+
+/* Estilos básicos para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  /* Estilos para el encabezado */
+  h1 {
+    color: #333;
+    font-size: 2.5em;
+  }
+  
+  /* Estilos para el botón */
+  button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.2em;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  /* Estilos para el contenedor de información */
+  #infoMascotas {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #555;
+  }
+  
